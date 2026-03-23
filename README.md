@@ -4,6 +4,8 @@
 
 I build end-to-end data platforms and AI-powered solutions for telecom operators across EMEA and LATAM, leveraging Snowflake's ecosystem -- Cortex AI, Streamlit, Snowpark, MCP, A2A, and Data Sharing.
 
+> **Safe Harbor Statement:** Some of the demonstrations and prototypes in these repositories are forward-looking and illustrate potential end-state architectures and capabilities. They may incorporate features that are under development, in private preview, or represent visionary use cases not yet generally available. All sample data is synthetic and for demonstration purposes only. These materials do not constitute a commitment, promise, or legal obligation to deliver any product, feature, or functionality. Actual product availability, timing, and features are subject to change at Snowflake's sole discretion.
+
 ---
 
 ## Flagship Demo
